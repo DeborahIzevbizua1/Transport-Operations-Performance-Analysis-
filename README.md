@@ -1,5 +1,4 @@
 # Transport Operations Performance Analysis
-Excel based analysis of transport operations data in Nigeria, covering vehicle safety, mechanical faults, revenue, and trip trends across seven Lagos routes, used to support fleet, safety, and maintenance decisions.
 
 ##  Overview
 This project analyzes transport operations data from a Lagos based fleet covering Bikes, Buses, Taxis, and Trucks across seven routes. Using Microsoft Excel, raw operational data was cleaned, structured, and transformed into an interactive report to support fleet allocation, safety review, and maintenance planning decisions. Data covers February 2026 in full and the first three days of March 2026.
