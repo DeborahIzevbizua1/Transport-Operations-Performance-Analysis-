@@ -1,6 +1,8 @@
 # Transport Operations Performance Analysis
 
 ##  Overview
+<img width="1123" height="464" alt="Transport Performance" src="https://github.com/user-attachments/assets/0143c957-29a8-4d35-8cca-eb4ede26fd1d" />
+
 This project analyzes transport operations data from a Lagos based fleet covering Bikes, Buses, Taxis, and Trucks across seven routes. Using Microsoft Excel, raw operational data was cleaned, structured, and transformed into an interactive report to support fleet allocation, safety review, and maintenance planning decisions. Data covers February 2026 in full and the first three days of March 2026.
 
 ## Tools Used
@@ -20,6 +22,8 @@ Built a dynamic Excel report tracking key KPIs. Added filters and slicers by Veh
 Cross analyzed accidents, faults, trips, and revenue by Vehicle Type and Route. Designed pivot tables and charts for an executive friendly presentation.
 
 ## Key Insights
+<img width="777" height="519" alt="Transport Key Insights" src="https://github.com/user-attachments/assets/bfbd7a4d-1831-46ff-aee5-99d42fab4338" />
+
 #### Overall Performance
 - Total trips: 5,426
 - Total revenue: 31,917,663 Naira
@@ -30,16 +34,18 @@ Cross analyzed accidents, faults, trips, and revenue by Vehicle Type and Route. 
 - Mechanical fault rate: 27.3 percent
 - Accident rate: 19.1 percent
 #### Vehicle Type Breakdown
+<img width="702" height="482" alt="Screenshot 2026-10-02 061530" src="https://github.com/user-attachments/assets/ff10a07a-0a76-4fe1-8291-0aa9dd3755dd" />
+
 Buses recorded the highest trip volume at 1,410, ahead of Taxis at 1,396, Bikes at 1,387, and Trucks at 1,233. Buses also had the highest mechanical faults at 377 and the highest accidents at 295, meaning Buses are both the busiest and the riskiest vehicle type in the fleet.
 #### Route Breakdown
+<img width="690" height="480" alt="Screenshot 2026-10-02 061754" src="https://github.com/user-attachments/assets/0f6aa727-5e5e-4768-8005-4305f7dd574e" />
+
 Ikeja VI recorded the highest raw accident count of any single route at 186, and also generated the most revenue at 5,243,178 Naira. Yaba Ikeja, CMS Ikoyi, and Ikeja VI were flagged as high risk routes with a 21 percent accident rate, recommended for safety review and maintenance planning. Yaba Ikeja generated the least revenue of any route at 3,964,276 Naira, despite being one of the flagged high risk routes.
 #### Trip Volume Note
+<img width="800" height="476" alt="Screenshot 2026-10-02 061836" src="https://github.com/user-attachments/assets/a16fc3a7-5909-4b13-a918-d98cea209397" />
+
 Trip activity is tracked through the first three days of March. The lower trip count in early March reflects data coverage rather than an operational decline.
 #### Business Impact
+<img width="1490" height="476" alt="Screenshot 2026-10-02 062034" src="https://github.com/user-attachments/assets/505f27f4-9697-4975-9560-b41d94df08ec" />
+
 These insights support data driven decisions across three areas. Safety, by identifying high risk routes and vehicle types for prioritized review. Maintenance, by flagging vehicle types with elevated fault rates for proactive servicing. Fleet Planning, by allocating vehicles by route based on trip demand and revenue patterns.
-
-## Files
-transport operations dashboard.xlsx, full Excel report with PivotTables and charts
-
-### Author
-Deborah Etinosa Izevbizua
